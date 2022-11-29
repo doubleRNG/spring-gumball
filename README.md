@@ -1,7 +1,7 @@
 # CMPE 172 - Lab #10 Notes
 
 ## CI Workflow Steps (Part 1)
-![](../screenshots/gradle-yml.png)
+![](screenshots/gradle-yml.png)
 
 Here is the gradle.yml file that was created in the repository.
 
