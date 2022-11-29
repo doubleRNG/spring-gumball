@@ -45,7 +45,7 @@ Here the spring-gumball service account creation is shown.
 ![](screenshots/grant-access-1.png)
 ![](screenshots/grant-access-2.png)
 
-Here the Kubernetes Engine Develope and Storage Admin permission creation is shown.
+Here the Kubernetes Engine Developer and Storage Admin permission creation is shown.
 
 ![](screenshots/create-key-1.png)
 ![](screenshots/create-key-2.png)
